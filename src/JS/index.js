@@ -22,7 +22,6 @@ Vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem
 
 //Precisamos criar duas variáveis no js pra trabalhar com os elementos da tela
 const listaSelecaoPokemon = document.querySelectorAll('.pokemon')
-const pokemonCard = document.querySelectorAll('.cartao-pokemon')
 
 //Vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem de pokemons
 listaSelecaoPokemon.forEach(pokemon => {
